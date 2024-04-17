@@ -1,11 +1,7 @@
 ## Exercício
 
-1) Para cada estrutura abaixo, implemente os métodos contido(K,L), inserir(K,L) e remover(K,L) e
-   verifique as complexidades de cada método. No caso de filas e pilhas, o remover(K,L) não terá o
-   argumento K, visto que filas e pilhas removem sempre quem está na extremidade.
-
-   a) Lista duplamente encadeada: considere a inserção sempre no final da lista.
-
+2) Listas são usadas para representar números muito grandes (p.ex, com 1000 dígitos), uma vez   que seria impossível representá-lo em máquinas de 64bits. Para representar inteiros grandes com   listas, é usada uma representação em que cada dígito do inteiro é armazenado em um nó da lista.   Considere duas listas encadeadas L1 e L2 representando números grandes (cada digito por nó).   Faça um algoritmo que faça a soma de dois inteiros grandes e retorne a lista L3 = L1 + L2.
+ 
 **Solução:** 
 
 - Estrutura:
