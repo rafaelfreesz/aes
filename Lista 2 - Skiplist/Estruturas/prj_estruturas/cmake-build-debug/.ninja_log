@@ -1,0 +1,27 @@
+# ninja log v5
+6	629	7351559770076640	CMakeFiles/prj_estruturas.dir/main.cpp.obj	dacafdd5c60f6c60
+20	589	7351557507639747	CMakeFiles/prj_estruturas.dir/Lista.cpp.obj	8fe13ff504fa2686
+630	755	7351559771286916	prj_estruturas.exe	86aeb6c97dba0680
+24	592	7351557507679754	CMakeFiles/prj_estruturas.dir/Passenger.cpp.obj	eea57fd6e7a2ae8f
+30	589	7351712123766188	CMakeFiles/prj_estruturas.dir/Passenger.cpp.obj	4067c875b7a5a3d7
+26	592	7351712123796197	CMakeFiles/prj_estruturas.dir/Lista.cpp.obj	fb5b2963587e9502
+21	775	7351712125646615	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+775	944	7351712127300800	prj_estruturas.exe	86aeb6c97dba0680
+19	645	7351714878744443	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+646	780	7351714880064732	prj_estruturas.exe	86aeb6c97dba0680
+22	634	7351715034040250	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+634	755	7351715035230507	prj_estruturas.exe	86aeb6c97dba0680
+10	633	7351716011371306	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+634	756	7351716012570753	prj_estruturas.exe	86aeb6c97dba0680
+9	662	7351717478510678	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+663	789	7351717479740955	prj_estruturas.exe	86aeb6c97dba0680
+21	645	7351717670044458	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+645	768	7351717671244733	prj_estruturas.exe	86aeb6c97dba0680
+9	636	7351718393427146	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+637	758	7351718394617413	prj_estruturas.exe	86aeb6c97dba0680
+24	655	7351718579237608	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+655	777	7351718580427859	prj_estruturas.exe	86aeb6c97dba0680
+10	680	7351723804890567	CMakeFiles/prj_estruturas.dir/main.cpp.obj	f14aed2b7f47d8fc
+681	818	7351723806240869	prj_estruturas.exe	86aeb6c97dba0680
+20	518	7351724599420948	CMakeFiles/prj_estruturas.dir/Passenger.cpp.obj	4067c875b7a5a3d7
+519	645	7351724600631213	prj_estruturas.exe	86aeb6c97dba0680

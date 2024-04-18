@@ -1,0 +1,3 @@
+C:/Ws/aes/Lista 2 - Skiplist/Estruturas/prj_estruturas/cmake-build-debug/CMakeFiles/prj_estruturas.dir
+C:/Ws/aes/Lista 2 - Skiplist/Estruturas/prj_estruturas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ws/aes/Lista 2 - Skiplist/Estruturas/prj_estruturas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

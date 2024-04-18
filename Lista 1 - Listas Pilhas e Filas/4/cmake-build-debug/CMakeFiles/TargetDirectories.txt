@@ -1,0 +1,3 @@
+C:/Ws/aes/Lista 1 - Listas Pilhas e Filas/4/cmake-build-debug/CMakeFiles/Listas.dir
+C:/Ws/aes/Lista 1 - Listas Pilhas e Filas/4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ws/aes/Lista 1 - Listas Pilhas e Filas/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
